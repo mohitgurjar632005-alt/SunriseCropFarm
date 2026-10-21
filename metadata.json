@@ -1,0 +1,6 @@
+{
+  "name": "SunriseCrop Farm",
+  "description": "SunriseCrop Farm provides fresh, organic produce through sustainable farming practices with online shopping and user account access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
